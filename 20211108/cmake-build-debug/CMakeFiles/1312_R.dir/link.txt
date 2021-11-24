@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1312_R.dir/1312_R.cpp.o  -o 1312_R 

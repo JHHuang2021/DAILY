@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/20211025T3_Revised.dir/20211025T3_Revised.cpp.o  -o 20211025T3_Revised 

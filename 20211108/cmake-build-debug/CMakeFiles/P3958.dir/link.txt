@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/P3958.dir/P3958.cpp.o  -o P3958 

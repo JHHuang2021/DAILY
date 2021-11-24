@@ -1,0 +1,15 @@
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1327.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1328.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1279.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/20211028_1.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1285.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1280.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1009.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1283.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/main.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/20211028_2.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1010.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/ICPC_Debug.dir
+/mnt/d/CLionProjects/20211026/cmake-build-debug/CMakeFiles/1011.dir

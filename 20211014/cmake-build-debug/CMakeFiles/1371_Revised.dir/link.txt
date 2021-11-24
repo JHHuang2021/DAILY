@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1371_Revised.dir/1371_Revised.cpp.o  -o 1371_Revised 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1416.dir/1416.cpp.o  -o 1416 

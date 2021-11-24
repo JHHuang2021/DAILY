@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1305debug.dir/1305debug.cpp.o  -o 1305debug 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/P1294.dir/P1294.cpp.o  -o P1294 

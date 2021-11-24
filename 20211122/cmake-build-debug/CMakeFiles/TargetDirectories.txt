@@ -1,0 +1,4 @@
+/mnt/d/Projects/20211122/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Projects/20211122/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Projects/20211122/cmake-build-debug/CMakeFiles/1425.dir
+/mnt/d/Projects/20211122/cmake-build-debug/CMakeFiles/1421.dir

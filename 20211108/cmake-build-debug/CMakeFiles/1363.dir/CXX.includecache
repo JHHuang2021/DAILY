@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Projects/20211108/1363.cpp
+1363.hpp
+/mnt/d/Projects/20211108/1363.hpp
+
+/mnt/d/Projects/20211108/1363.hpp
+bits/stdc++.h
+-
+

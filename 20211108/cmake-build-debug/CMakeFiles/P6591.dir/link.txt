@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/P6591.dir/P6591.cpp.o  -o P6591 

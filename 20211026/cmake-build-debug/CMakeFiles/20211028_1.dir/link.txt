@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/20211028_1.dir/20211028_1.cpp.o  -o 20211028_1 

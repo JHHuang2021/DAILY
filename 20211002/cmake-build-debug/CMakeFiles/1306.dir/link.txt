@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1306.dir/1306.cpp.o  -o 1306 
